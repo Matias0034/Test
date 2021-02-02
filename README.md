@@ -1,2 +1,2 @@
 # Test
-Repositorio de entrenamiento
+Repositorio de entrenamiento, cambios de comprobación de gitignore
